@@ -4,4 +4,4 @@ Wifi AP Password
 MCS Device ID
 MCS Device Key
 
-Refer to Modify code.png
+Please refer to Modify code.png
